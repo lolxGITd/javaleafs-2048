@@ -54,7 +54,8 @@ function drawCell(cell) {
     case 1024 : ctx.fillStyle = '#FDE233'; break;
     case 2048 : ctx.fillStyle = '#FEDC01'; break;
     case 4096 : ctx.fillStyle = '#01FEDC'; break;
-    default : ctx.fillStyle = '#ff0080';
+    case 8192 : ctx.fillStyle = '#c300ff'; break;
+    default : ctx.fillStyle = '#0a3614';
   }
   ctx.fill();
   if (cell.value) {
