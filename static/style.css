@@ -1,31 +1,28 @@
 body{
-    background-color: pink;
+    background-color: lightpink;
 }
 
 p{
     color: red;
     font-size: 20px;
-    font: Arial;
+}
+
+p3{
+    color: red;
+    font-size: 50px;
 }
 
 h1{
     text-align: center;
     font-size: 30px;
-    font: Arial;
 }
 
 h2{
     text-align: center;
-    font: Arial;
 }
 
-button{
-    size: 50px;
-    font-size: 40px;
-    background-color: pink;
-    font: Arial;
-    color: red;
-    text-align: center;
+blockquote{
+    align-self: center;
 }
 
 #score{
@@ -52,7 +49,7 @@ button{
 }
 
 #canvas{
-    background-color: lightpink;
+    background-color: indianred;
 }
 
 #canvas-block{
