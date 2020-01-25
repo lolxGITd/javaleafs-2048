@@ -1,58 +1,35 @@
 body{
-    background-color: lightpink;
-}
-
-p{
-    color: red;
-    font-size: 20px;
-}
-
-p3{
-    color: red;
-    font-size: 50px;
+    background-color: black;
 }
 
 h1{
-    text-align: center;
+    color: red;
+    font-size: 120px;
+    font: Cursive;
+}
+
+p{
+    color: yellow;
     font-size: 30px;
 }
 
 h2{
-    text-align: center;
+    color: greenyellow;
+    font-size: 50px;
 }
 
-blockquote{
-    align-self: center;
+a{
+    color: blue;
+    font-size: 20px
 }
 
-#score{
-    text-align: center;
+a{
+    color: blue;
+    font-size: 20px
 }
 
-.clear{
-    clear: both;
+a{
+    color: blue;
+    font-size: 20px
 }
-#size-bloc{
-    margin-left: -50px;
-    padding-left: 50%;
-}
-
-#size-title{
-    float: left;
-    margin-top: 0px;
-}
-
-#size{
-    width: 50px;
-    margin-left: 10px;
-    border-radius: 3px;
-}
-
-#canvas{
-    background-color: indianred;
-}
-
-#canvas-block{
-    margin-left: -250px;
-    padding-left: 50%;
-}
+    
